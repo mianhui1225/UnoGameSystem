@@ -10,5 +10,7 @@ public class Card {
 		SKIP, REVERSE, WILD, DRAW_2, WILD_DRAW_4;
 	}
 	
-
+	public void action () {
+		
+	}
 }
