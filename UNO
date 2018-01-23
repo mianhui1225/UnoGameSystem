@@ -1,5 +1,0 @@
-//UNO.java
-
-public class UNO {
-
-}
